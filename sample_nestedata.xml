@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<Employee>
+     <Name>
+          <Firstname>Brian</Firstname>
+          <Lastname>Lara</Lastname>
+	<Luckyname></Luckyname>
+     </Name>
+     <Contact>
+          <Mobile>9800000000</Mobile>
+          <Landline>020222222</Landline>
+     </Contact>
+     <Address>
+          <City>Pune</City>
+          <Street>Tilak road</Street>
+          <Zipcode>4110</Zipcode>
+     </Address>
+    <Company>ABC.inc</Company>
+</Employee>
+<Employee>
+     <Name>
+          <Firstname>Brian1</Firstname>
+          <Lastname>Lara</Lastname>
+	<Luckyname></Luckyname>
+     </Name>
+     <Contact>
+          <Mobile>9800000000</Mobile>
+          <Landline>020222222</Landline>
+     </Contact>
+     <Address>
+          <City>Pune</City>
+          <Street>Tilak road</Street>
+          <Zipcode>4110</Zipcode>
+     </Address>
+    <Company>ABC.inc</Company>
+</Employee>
+<Employee>
+     <Name>
+          <Firstname>Brian2</Firstname>
+          <Lastname>Lara</Lastname>
+	<Luckyname></Luckyname>
+     </Name>
+     <Contact>
+          <Mobile>9800000000</Mobile>
+          <Landline>020222222</Landline>
+     </Contact>
+     <Address>
+          <City>Pune</City>
+          <Street>Tilak road</Street>
+          <Zipcode>4110</Zipcode>
+     </Address>
+    <Company>ABC.inc</Company>
+</Employee>
+</root>
